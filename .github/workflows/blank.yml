@@ -1,0 +1,12 @@
+            - name: Shopify Themekit
+  # You may pin to the exact commit or the version.
+  # uses: kwnath/shopify-theme-kit-action@9130c3c23cf517990cb058570c356ecce1c0efe7
+  uses: kwnath/shopify-theme-kit-action@v1.3.3
+  with:
+    # Command
+    shopify-command: 
+    # Flags
+    shopify-flags: # optional, default is 
+    # Theme
+    get-theme-id-by-name: # optional, default is 
+          
